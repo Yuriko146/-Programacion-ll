@@ -68,4 +68,3 @@ public class Cabina {
         return pesoTotal;
     }
 }
-//completa el diagrama con al menos 3 atributos en cada clase y 2 metodos en el diagrama del ejercicio 1 eso de "el nuevo Spotify Latinoamerica"alli esta en la imagen tienes que crear 4 clases y la clase principal es Spotify
